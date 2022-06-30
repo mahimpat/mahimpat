@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahimpat
+- 👋 Hi, I’m @mahimpat ( Mahim Patil )
 - 👀 I’m interested in integration of Artificial Intelligence in Cybersecurity.
 - 🌱 I’m currently learning MSc in Cybersecurity and AI
 - 💞️ I’m looking to collaborate on AI and cybersecurity projects
