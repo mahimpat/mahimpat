@@ -9,4 +9,4 @@ mahimpat/mahimpat is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<script src="https://tryhackme.com/badge/1159504"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mahimpat.png" alt="TryHackMe">
